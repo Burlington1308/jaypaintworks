@@ -67,3 +67,21 @@ body {
     background-color: #888888;
     border: 2px solid #050430;
 }
+
+.navbar-toggle {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    padding: 10px;
+}
+
+.navbar-toggle span {
+    height: 3px;
+    width: 25px;
+    background: #333;
+    margin: 4px 0;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+}
