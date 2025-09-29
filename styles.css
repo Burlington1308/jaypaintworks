@@ -110,11 +110,14 @@ body {
         padding: 3rem 1.5rem;
         box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
         backdrop-filter: blur(10px);
+        background: rgba(255, 255, 255, 0.9);
+        transition: all 0.3s ease;
+        z-index: 1000;
     }
 
     .navbar-menu.active {
         display: flex;
-
+        z-index: 1000;
     }
 
     .navbar-menu li {
@@ -139,12 +142,27 @@ body {
     align-items: center;
     text-align: center;
     color: white;
+    padding: 0 2rem;
     padding: 0 20px;
 }
 
 .banner-msg {
     background: rgba(0, 0, 0, 0.75);
-    padding: 20px;
+    padding: 3rem 2rem;
     border-radius: 10px;
     height: 50%;
+    width: auto;
+    backdrop-filter: blur(15px);
+}
+
+.banner-head {
+    font-size: clamp(2rem, 5vw, 3rem);
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.banner-text {
+    font-size: clamp(1rem, 3vw, 1.5rem);
+    font-weight: 400;
+    line-height: 1.5rem;
 }
