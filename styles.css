@@ -24,6 +24,9 @@ body {
     background: #fff;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     height: 80px;
+    width: 100%;
+    position: absolute;
+    top: 0
 }
 
 .navbar-toggle {
@@ -122,4 +125,26 @@ body {
         display: block;
         z-index: 1001;
     }
+}
+
+/*main body*/
+
+.banner {
+    height: 80vh;
+    width: 100%;
+    background: url('images/banner_img.jpg') no-repeat center center/cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding: 0 20px;
+}
+
+.banner-msg {
+    background: rgba(0, 0, 0, 0.75);
+    padding: 20px;
+    border-radius: 10px;
+    height: 50%;
 }
