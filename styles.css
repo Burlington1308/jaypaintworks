@@ -174,5 +174,33 @@ body {
     background-color: #fff;
     padding: 4rem 2rem;
     display: flex;
+    flex-direction: column;
     justify-content: center;
+}
+
+.card-section {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    background: #f9f9f9;
+    width: 30%;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
+    margin: 1rem;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background-color: #e6e5e591;
+    color: #333;
+}
+
+.card img {
+    width: 100%;
+    aspect-ratio: 16/9;
+    height: auto;
+    display: block;
 }
