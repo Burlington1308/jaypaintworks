@@ -167,3 +167,12 @@ body {
     font-weight: 400;
     line-height: 1.5rem;
 }
+
+.services {
+    width: 100%;
+    height: auto;
+    background-color: #fff;
+    padding: 4rem 2rem;
+    display: flex;
+    justify-content: center;
+}
