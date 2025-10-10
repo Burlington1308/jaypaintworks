@@ -171,7 +171,7 @@ body {
 .services {
     width: 100%;
     height: auto;
-    background-color: #fff;
+    background-color: #e6e5e591;
     padding: 4rem 2rem;
     display: flex;
     flex-direction: column;
@@ -195,14 +195,13 @@ body {
 }
 
 .card {
-    background: #f9f9f9;
     width: 30%;
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
     margin: 1rem;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    background-color: #e6e5e591;
+    background-color: #fff;
     color: #333;
     text-align: center;
 }
