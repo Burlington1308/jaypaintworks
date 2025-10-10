@@ -198,7 +198,7 @@ body {
     width: 30%;
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
+    box-shadow: 0 2px 4px rgba(111, 94, 114, 0.6);
     margin: 1rem;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     background-color: #fff;
@@ -215,7 +215,7 @@ body {
 
 .card:hover {
     transform: translateY(-10px);
-    box-shadow: 0 4px 8px rgba(111, 94, 114, 0.6);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
 }
 
 .card h3 {
@@ -248,4 +248,10 @@ body {
     text-decoration: none;
     color: white;
     font-weight: 500;
+}
+
+@media (max-width: 768px) {
+    .card {
+        width: 90%;
+    }
 }
