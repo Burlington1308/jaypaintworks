@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Black%20Street/Another%20level/black%20street%20-%2007%20Don%60t%20Live%20Me%20Baby.mp3</location>
+			<title>Don`t Live Me Baby</title>
+			<creator>black street</creator>
+			<album>black street</album>
+			<trackNum>7</trackNum>
+			<image>file:///C:/Users/Lamont/Desktop/music/Black%20Street/Another%20level/Folder.jpg</image>
+			<duration>317260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/All%20THE%20WAY...%20A%20decade%20of%20song/10%20-%20that&#39;s%20the%20way%20it%20is.mp3</location>
+			<title>Thaat&#39;s the way it is</title>
+			<creator>Celine Dion</creator>
+			<album>All The Way</album>
+			<trackNum>10</trackNum>
+			<image>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/All%20THE%20WAY...%20A%20decade%20of%20song/Folder.jpg</image>
+			<duration>243053</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Boyz%20II%20Men2/CooleyHighHarmony/01%20-%20Boyz%20II%20Men%20-%20End%20of%20the%20road%20-%20CooleyHighHarmony.mp3</location>
+			<title>End of the road</title>
+			<creator>Boyz II Men</creator>
+			<album>CooleyHighHarmony</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/Lamont/AppData/Roaming/vlc/art/artistalbum/Boyz%20II%20Men/CooleyHighHarmony/art</image>
+			<duration>351827</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Boyz%20II%20Men2/Boys%20II%20Men/Boys%20II%20Men%20-%20On%20bended%20knees.mp3</location>
+			<title>On bended Knees</title>
+			<creator>Boys II Men                </creator>
+			<album>The best of Boys II Men</album>
+			<annotation>Very Good</annotation>
+			<image>file:///C:/Users/Lamont/Desktop/music/Boyz%20II%20Men2/Boys%20II%20Men/Folder.jpg</image>
+			<duration>328594</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Ashanti/ChapterI/2-Foolish.MP3</location>
+			<creator>ASHANTI</creator>
+			<album>ASHANTI</album>
+			<trackNum>2</trackNum>
+			<image>http://coverartarchive.org/release/df478545-eaf3-3146-a0a5-9ec8be0a6b52/front-500</image>
+			<duration>227456</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/A%20New%20Day%20Has%20Come/.celine%20dion%20-%20Track%201.mp3</location>
+			<title>i&#39;m alive</title>
+			<creator>celine dion</creator>
+			<album>a new day has come</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/Lamont/AppData/Roaming/vlc/art/artistalbum/celine%20dion/a%20new%20day%20has%20come/art</image>
+			<duration>210733</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/A%20New%20Day%20Has%20Come/.celine%20dion%20-%20Track%205.mp3</location>
+			<title>a new day has come</title>
+			<creator>celine dion</creator>
+			<album>a new day has come</album>
+			<trackNum>5</trackNum>
+			<image>file:///C:/Users/Lamont/AppData/Roaming/vlc/art/artistalbum/celine%20dion/a%20new%20day%20has%20come/art</image>
+			<duration>259637</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/A%20New%20Day%20Has%20Come/.celine%20dion%20-%20Track%207.mp3</location>
+			<title>goodbye&#39;s ( the saddest word )</title>
+			<creator>celine dion</creator>
+			<album>a new day has come</album>
+			<trackNum>7</trackNum>
+			<image>file:///C:/Users/Lamont/AppData/Roaming/vlc/art/artistalbum/celine%20dion/a%20new%20day%20has%20come/art</image>
+			<duration>319336</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/A%20New%20Day%20Has%20Come/.celine%20dion%20-%20Track%208.mp3</location>
+			<title>prayer</title>
+			<creator>celine dion</creator>
+			<album>a new day has come</album>
+			<trackNum>8</trackNum>
+			<image>file:///C:/Users/Lamont/AppData/Roaming/vlc/art/artistalbum/celine%20dion/a%20new%20day%20has%20come/art</image>
+			<duration>334192</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/All%20THE%20WAY...%20A%20decade%20of%20song/01%20-%20the%20power%20of%20love.mp3</location>
+			<title>Track 01</title>
+			<creator>Celine Dion</creator>
+			<album>All The Way</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/All%20THE%20WAY...%20A%20decade%20of%20song/Folder.jpg</image>
+			<duration>288948</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/All%20THE%20WAY...%20A%20decade%20of%20song/03%20-%20think%20twice.mp3</location>
+			<title>Track 03</title>
+			<creator>Celine Dion</creator>
+			<album>All The Way</album>
+			<trackNum>3</trackNum>
+			<image>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/All%20THE%20WAY...%20A%20decade%20of%20song/Folder.jpg</image>
+			<duration>288765</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/All%20THE%20WAY...%20A%20decade%20of%20song/04%20-%20because%20u%20love%20me.mp3</location>
+			<title>Track 04</title>
+			<creator>Celine Dion</creator>
+			<album>All The Way</album>
+			<trackNum>4</trackNum>
+			<image>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/All%20THE%20WAY...%20A%20decade%20of%20song/Folder.jpg</image>
+			<duration>275260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/All%20THE%20WAY...%20A%20decade%20of%20song/05%20It&#39;s%20All%20Coming%20Back%20To%20Me%20Now.m4a</location>
+			<title>It&#39;s All Coming Back To Me Now</title>
+			<creator>Celine Dion</creator>
+			<album>All The Way... A Decade Of Song [UK]</album>
+			<trackNum>5</trackNum>
+			<image>file:///C:/Users/Lamont/AppData/Roaming/vlc/art/artistalbum/Celine%20Dion/All%20The%20Way...%20A%20Decade%20Of%20Song%20%5BUK%5D/art.png</image>
+			<duration>331951</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/All%20THE%20WAY...%20A%20decade%20of%20song/06%20Immortality.m4a</location>
+			<title>Immortality</title>
+			<creator>Celine Dion</creator>
+			<album>All The Way... A Decade Of Song [UK]</album>
+			<trackNum>6</trackNum>
+			<image>file:///C:/Users/Lamont/AppData/Roaming/vlc/art/artistalbum/Celine%20Dion/All%20The%20Way...%20A%20Decade%20Of%20Song%20%5BUK%5D/art.png</image>
+			<duration>252631</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/All%20THE%20WAY...%20A%20decade%20of%20song/07%20-%20to%20love%20you%20more.mp3</location>
+			<title>Track 07</title>
+			<creator>Celine Dion</creator>
+			<album>All The Way</album>
+			<trackNum>7</trackNum>
+			<image>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/All%20THE%20WAY...%20A%20decade%20of%20song/Folder.jpg</image>
+			<duration>282028</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/All%20THE%20WAY...%20A%20decade%20of%20song/08%20My%20Heart%20Will%20Go%20On%20(Love%20Theme%20From%20_Titanic_).m4a</location>
+			<title>My Heart Will Go On (Love Theme From &quot;Titanic&quot;)</title>
+			<creator>Celine Dion</creator>
+			<album>All The Way... A Decade Of Song [UK]</album>
+			<trackNum>8</trackNum>
+			<image>file:///C:/Users/Lamont/AppData/Roaming/vlc/art/artistalbum/Celine%20Dion/All%20The%20Way...%20A%20Decade%20Of%20Song%20%5BUK%5D/art.png</image>
+			<duration>281958</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/All%20THE%20WAY...%20A%20decade%20of%20song/11%20-%20if%20walls%20could%20talk.mp3</location>
+			<title>Track 11</title>
+			<creator>Celine Dion</creator>
+			<album>All The Way</album>
+			<trackNum>11</trackNum>
+			<image>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/All%20THE%20WAY...%20A%20decade%20of%20song/Folder.jpg</image>
+			<duration>319879</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/All%20THE%20WAY...%20A%20decade%20of%20song/15%20-%20i%20want%20you%20to%20need%20me.mp3</location>
+			<title>Track 15</title>
+			<creator>Celine Dion</creator>
+			<album>All The Way</album>
+			<trackNum>15</trackNum>
+			<image>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/All%20THE%20WAY...%20A%20decade%20of%20song/Folder.jpg</image>
+			<duration>275941</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/Because%20you%20love%20me/Celine%20Dion%20-%20Love%20don&#39;t%20ask%20why.mp3</location>
+			<title>Love don&#39;t ask why</title>
+			<creator>Celine Dion</creator>
+			<duration>249163</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/Because%20you%20love%20me/Celine%20Dion%20Call%20the%20man.MP3</location>
+			<title>Call the man.</title>
+			<creator>Celine Dion</creator>
+			<image>file:///C:/Users/Lamont/AppData/Roaming/vlc/art/arturl/202d8b4e951e67cc3833522d858ef8d2/art</image>
+			<duration>368714</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/Because%20you%20love%20me/Celine%20Dion%20If%20thats%20what%20it%20takes.MP3</location>
+			<title>If Thats What It Takes.</title>
+			<creator>Celine Dion </creator>
+			<duration>250468</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/Falling%20into%20you/03%20-%20Falling%20Into%20U.mp3</location>
+			<title>Track 03</title>
+			<creator>Celine Dione</creator>
+			<album>All By Myself</album>
+			<trackNum>3</trackNum>
+			<image>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/Falling%20into%20you/Folder.jpg</image>
+			<duration>258176</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/Falling%20into%20you/10%20-%20I%20Love%20U.mp3</location>
+			<title>Track 10</title>
+			<creator>Celine Dione</creator>
+			<album>All By Myself</album>
+			<trackNum>10</trackNum>
+			<image>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/Falling%20into%20you/Folder.jpg</image>
+			<duration>330143</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/Let&#39;s%20Talk%20About%20Love/16%20-%20Lets%20Talk%20About%20Love.mp3</location>
+			<title>Track 16</title>
+			<creator>Celine Dion</creator>
+			<album>Lets Talk About love</album>
+			<trackNum>16</trackNum>
+			<duration>312354</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Lamont/Desktop/music/Celine%20Dion/Unison/03%20-%20Where%20Does%20My%20Heart.MP3</location>
+			<title>Where Does My Heart</title>
+			<creator>Celine Dion</creator>
+			<album>Unison</album>
+			<image>file:///C:/Users/Lamont/AppData/Roaming/vlc/art/artistalbum/Celine%20Dion/Unison/art</image>
+			<duration>272909</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+	</extension>
+</playlist>
