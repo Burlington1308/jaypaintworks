@@ -1,3 +1,32 @@
 .banner {
     background: url('images/interior-wall2.jpg');
+    width: 100%;
+}
+
+.interior-banner-msg {
+    width: 100vw;
+    height: inherit;
+    background: rgba(0, 0, 0, 0.6);
+    display: grid;
+    place-content: center;
+}
+
+.main-content {
+    width: 100%;
+    background: #e6e5e591;
+}
+
+.main-content h1 {
+    text-align: center;
+    font-size: clamp(2rem, 5vw, 3rem);
+    margin-bottom: 2rem;
+    font-weight: 700;
+    color: #222222;
+}
+
+.main-content p {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #222222;
 }
