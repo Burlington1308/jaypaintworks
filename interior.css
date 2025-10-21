@@ -20,13 +20,25 @@
     text-align: center;
     font-size: clamp(2rem, 5vw, 3rem);
     margin-bottom: 2rem;
+    margin-top: 2rem;
     font-weight: 700;
     color: #222222;
 }
 
-.main-content p {
+.main-content p, .main-content ul {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
     color: #222222;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.main-content ul li {
+    padding-bottom: 1rem;
+}
+
+.main-content a {
+    text-decoration: none;
+    color: #9c0dd4;
 }
