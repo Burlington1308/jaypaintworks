@@ -1,0 +1,11 @@
+.banner {
+    background: url('images/fin-exterior2.jpg');
+}
+
+.exterior-banner-msg {
+    background: rgba(0, 0, 0, 0.7);
+    width: 100vw;
+    height: 80vh;
+    display: grid;
+    place-content: center;
+}
