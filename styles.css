@@ -150,10 +150,11 @@ body {
 .banner-msg {
     background: rgba(0, 0, 0, 0.75);
     padding: 3rem 2rem;
-    border-radius: 10px;
-    height: 50%;
-    width: auto;
-    backdrop-filter: blur(15px);
+    height: 80vh;
+    width: 100vw;
+    backdrop-filter: blur(2px);
+    display: grid;
+    place-content: center;
 }
 
 .banner-head {
@@ -166,6 +167,27 @@ body {
     font-size: clamp(1rem, 3vw, 1.5rem);
     font-weight: 400;
     line-height: 1.5rem;
+}
+
+.cta {
+    background-color: #4946fc;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-bottom: 1rem;
+    margin-top: 3rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.cta a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.cta:hover {
+    background: #628bfc;
 }
 
 .services {
