@@ -30,3 +30,31 @@
 .exterior-banner-msg .cta:hover {
     background: #628bfc;
 }
+
+.main-body {
+    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #222222;
+}
+
+.main-body h1 {
+    text-align: center;
+    font-size: clamp(2rem, 5vw, 3rem);
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+
+.main-body h2 {
+    font-size: clamp(1.5rem, 3.5rem, 2rem);
+    text-align: left;
+    margin-top: 1.5rem;
+    
+}
+
+.main-body p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
