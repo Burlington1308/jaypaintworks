@@ -1,0 +1,84 @@
+.banner {
+    background: url('images/pool5.jpg');
+}
+
+.main-content {
+    width: 100%;
+    background: #e6e5e591;
+}
+
+.main-content h1, .main-content h2 {
+    text-align: center;
+    font-size: clamp(2rem, 5vw, 3rem);
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    font-weight: 700;
+    color: #222222;
+}
+
+.main-content h2 {
+    font-size: clamp(1.5rem, 3.5rem, 2rem);
+    text-align: left;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-content p, .main-content ul {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #222222;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.main-content ul li {
+    padding-bottom: 1rem;
+}
+
+.main-content a {
+    text-decoration: none;
+    color: #9c0dd4;
+}
+
+.cta {
+    background-color: #050430;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-left: 10%;
+}
+
+.cta a {
+    color: #fff;
+}
+
+.cta:hover {
+    background-color: #333;
+}
+
+.banner-cta {
+    background-color: #4946fc;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-bottom: 1rem;
+    margin-top: 3rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.banner-cta a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.banner-cta:hover {
+    background: #628bfc;
+}
