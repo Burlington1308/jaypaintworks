@@ -1,0 +1,70 @@
+.banner {
+    background: url('images/industrial-floor.jpg');
+}
+
+.banner-msg {
+    background-color:  rgba(0, 0, 0, 0.4);
+}
+
+.main-content h1, .main-content h2 {
+    text-align: center;
+    font-size: clamp(2rem, 5vw, 3rem);
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    font-weight: 700;
+    color: #222222;
+}
+
+.main-content h2 {
+    font-size: clamp(1.5rem, 3.5rem, 2rem);
+    text-align: left;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-content h3 {
+    font-size: clamp(1.2rem, 3rem, 1.5rem);
+    text-align: left;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-content p, .main-content ul {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #222222;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.main-content ul li {
+    padding-bottom: 1rem;
+}
+
+.main-content a {
+    text-decoration: none;
+    color: #9c0dd4;
+}
+
+.cta {
+    background-color: #050430;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-left: 10%;
+}
+
+.cta a {
+    color: #fff;
+}
+
+.cta:hover {
+    background-color: #333;
+}
