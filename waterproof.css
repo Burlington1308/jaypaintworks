@@ -21,3 +21,23 @@
 .banner-msg {
     background: rgba(0, 0, 0, 0.6);
 }
+
+.cta {
+    background-color: #050430;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-left: 10%;
+}
+
+.cta a {
+    color: #fff;
+}
+
+.cta:hover {
+    background-color: #333;
+}
